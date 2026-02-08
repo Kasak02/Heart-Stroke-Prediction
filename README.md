@@ -61,5 +61,6 @@ These inputs are processed in real time and passed to the trained ML model for p
 - **Web Framework:** Streamlit  
 - **Data Handling:** Pandas, NumPy  
 - **Model Serialization:** Joblib  
-
+## 🌐 Live Demo
+👉https://heart-stroke-prediction-aowvknw6oynpccwgzezfeq.streamlit.app/
 
